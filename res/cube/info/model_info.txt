@@ -1,0 +1,16 @@
+MODEL
+zone	Body 1 2
+nodes	45467
+faces	109181
+cells	32130
+boundaries	6
+orientation_warnings	0
+
+BOUNDARIES
+boundary_name	file	face_count	node_count
+yz1	yz1.txt	400	459
+xz2	xz2.txt	2240	2529
+yz2	yz2.txt	400	459
+xz1	xz1.txt	2240	2529
+xy2	xy2.txt	5993	6545
+xy1	xy1.txt	5993	6545

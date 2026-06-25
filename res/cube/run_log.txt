@@ -1,0 +1,24 @@
+STAR-CCM+ CGNS export/read/gui macro
+Simulation name: cube
+Output directory: C:\Users\liunon\Desktop\star\res\cube
+CGNS export completed.
+file=C:\Users\liunon\Desktop\star\res\cube\mesh_export.cgns
+regions=1
+boundaries=6
+bytes=7419508
+[parser] wrote C:\Users\liunon\Desktop\star\res\cube\mesh_topology.json
+[parser] wrote_txt_dir C:\Users\liunon\Desktop\star\res\cube\info
+[parser] nodes=45467 faces=109181 cells=32130 boundaries=6
+[parser] orientation_warnings=0
+[parser] boundary yz1: faces=400 file=yz1.txt missing=0
+[parser] boundary xz2: faces=2240 file=xz2.txt missing=0
+[parser] boundary yz2: faces=400 file=yz2.txt missing=0
+[parser] boundary xz1: faces=2240 file=xz1.txt missing=0
+[parser] boundary xy2: faces=5993 file=xy2.txt missing=0
+[parser] boundary xy1: faces=5993 file=xy1.txt missing=0
+Parsed mesh summary:
+nodes=45467
+faces=109181
+cells=32130
+boundaries=6
+txt_dir=C:\Users\liunon\Desktop\star\res\cube\info
